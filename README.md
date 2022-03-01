@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-  <head> 
+  <h1> 
     <title> 
       Test of Github 
     </title>
-  </head>
+  </h1>
   <body>
     <h2> Team Memebers of Team 5 </h2>
     <li> 
