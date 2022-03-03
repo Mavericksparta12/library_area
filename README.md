@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <h1> 
       Test of Github 
