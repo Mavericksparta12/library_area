@@ -1,6 +1,8 @@
 <html>
   <h1> 
       Test of Github 
+    <center>This text will be centered.
+    <p>So will this paragraph.</p></center>
   </h1>
   <body>
     <h2> Team Members of Team 5 </h2>
