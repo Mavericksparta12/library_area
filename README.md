@@ -1,8 +1,12 @@
 <html>
+  
+   <style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
   <h1> 
       Test of Github 
-    <center>This text will be centered.
-    <p>So will this paragraph.</p></center>
   </h1>
   <body>
     <h2> Team Members of Team 5 </h2>
